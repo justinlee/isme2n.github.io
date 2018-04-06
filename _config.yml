@@ -13,7 +13,7 @@ url:                 https://justinlee.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             iOS 개발자
+tagline:             개발자
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
@@ -22,7 +22,7 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              justin lee
+  name:              justin
   email:             
 
 # Fallback image and color
