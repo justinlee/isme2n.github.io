@@ -1,5 +1,5 @@
 ---
-categories: Essay
+categories: "Essay"
 comment: 
 date: '2018-04-10'
 info: 
