@@ -43,7 +43,7 @@ type: post
 
 
 
-![](./resource/traditional_mvc.gif)
+![](https://github.com/justinlee/justinlee.github.com/blob/master/_posts/resource/traditional_mvc.gif)
 
 
 
@@ -51,7 +51,7 @@ type: post
 
 
 
-![](./resource/cocoa_mvc.gif)
+![](https://github.com/justinlee/justinlee.github.com/blob/master/_posts/resource/cocoa_mvc.gif)
 
 
 
