@@ -43,7 +43,7 @@ type: post
 
 
 
-![](/Users/dnax/Documents/%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/iOS_Dev/resource/traditional_mvc.gif)
+![](./resource/traditional_mvc.gif)
 
 
 
@@ -51,7 +51,7 @@ type: post
 
 
 
-![](/Users/dnax/Documents/%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/iOS_Dev/resource/cocoa_mvc.gif)
+![](./resource/cocoa_mvc.gif)
 
 
 
