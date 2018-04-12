@@ -1,3 +1,18 @@
+---
+categories: "Documents"
+comment: 
+date: '2018-04-12'
+info: 
+layout: post
+published: true
+sha: 3e70fdac283c74447b75b9f9920d5b3c8f505b5a
+slug: Documents-the-post-1
+tags: []
+title: "Cocoa의 MVC 패턴"
+type: post
+
+---
+
 # Cocoa의 MVC 패턴
 
 최근 유행하는 MVVM 개념을 정리하기 앞서서 MVC 를 제대로 사용하고 있는지에 대한 의문이 생겼습니다.
