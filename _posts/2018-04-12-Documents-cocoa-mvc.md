@@ -74,6 +74,9 @@ Apple은 이런 Cocoa version의 MVC 패턴을 적용하면 Controller의 비중
 Model쪽이 데이터에 대한 모든 부분(데이터 레이어와 비지니스로직, 네트워크, 데이터베이스 API 관리등)을 맡아서 처리하는게 MVC의 원래 의도에 더 가깝지 않나 합니다.
 
 
+추가로 스택오버플로우에서 동일한 문제에 대한 질문을 발견했습니다.
+[보기](https://stackoverflow.com/questions/12694078/in-a-mvc-application-should-the-controller-or-the-model-handle-data-access)
+
 
 참고 :
 
